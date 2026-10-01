@@ -27,5 +27,5 @@ My ultimate career goal is to work as a Software Engineer at Google. Right now, 
 
 ### 📈 GitHub Stats
 
-![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranto-smss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranto-smss&layout=compact&theme=radical)
+![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantosmss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantosmss&layout=compact&theme=radical)
