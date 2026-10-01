@@ -1,31 +1,60 @@
-## Hi there, I'm Pranto! 👋
+<h1 align="center">Hi, I'm Pranto 👋</h1>
 
-I am a 4th-year Computer Science & Engineering student at Stamford University Bangladesh. I specialize in **Frontend Development** with a strong foundation in backend systems (Frontend-Heavy Full-Stack). 
+<p align="center">
+  Product-minded Full-Stack Engineer · Next.js · Type-safe, performance-first web apps 🇧🇩
+</p>
 
-My ultimate career goal is to work as a Software Engineer at Google. Right now, I am actively building real-world projects, mastering modern web frameworks, and sharpening my problem-solving skills to bridge the gap between where I am and where I want to be.
+<p align="center">
+  <a href="https://prantosmss.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ssspranto/">LinkedIn</a> ·
+  <a href="mailto:pranto.smss.dev@gmail.com">Email</a>
+</p>
 
 ---
+
+I'm a frontend-heavy full-stack engineer who ships production-grade web apps with **Next.js (App Router)**, **TypeScript**, and **PostgreSQL**. I focus on the things that matter in modern product engineering: fast UIs, end-to-end type safety, clean data modeling, and tight feedback loops. I use AI tools to move faster, and I still review and understand every line I ship.
+
+CSE student at Stamford University Bangladesh.
 
 ### 🚀 About Me
 
-- 🔭 **I’m currently working on:** Building modern, responsive web applications using **React.js**, **Next.js**, and **Tailwind CSS**.
-- 🌱 **I’m currently learning:** Deep diving into **Node.js/Express** for robust backend integration and practicing **Data Structures & Algorithms (DSA)** daily.
-- 👯 **I’m looking to collaborate on:** Open-source frontend projects, UI/UX optimization, or MERN stack applications.
-- 💬 **Ask me about:** React, JavaScript, frontend architectures, or my journey as a developer in Bangladesh.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ssspranto/) | [Portfolio](https://pranto-smss.github.io) | pranto.smss.dev@gmail.com
-- ⚡ **Fun fact:** I can easily visualize complex UI component hierarchies, but centering a `div` still occasionally makes me question my life choices.
+- 🔭 **Building:** full-stack apps with **Next.js**, **React Server Components**, **Tailwind CSS**, and relational databases
+- ⚙️ **Focus areas:** performance (Core Web Vitals), accessibility, component architecture, and type-safe data flow from database to UI
+- 🌱 **Leveling up:** backend design with **Node.js/Express**, API design, and **DSA** for strong engineering fundamentals
+- 🤖 **Workflow:** AI-assisted development, Git-based collaboration, containerized environments with Docker, and deploys on Vercel
+- 👯 **Open to collaborating on:** open-source Next.js projects, developer tooling, and product-focused full-stack apps
+- 💬 **Ask me about:** Next.js, React, TypeScript, SQL and relational database design, or building as a developer in Bangladesh
+- ⚡ **Fun fact:** I can map out a complex component tree in my head, but centering a `div` still makes me question my life choices
 
----
+### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack & Tools
+**Core**
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS
-* **Backend & Databases:** Node.js, Express.js, MongoDB, RESTful APIs
-* **Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel
+![Core](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind)
 
----
+**Fundamentals**
+
+![Fundamentals](https://skillicons.dev/icons?i=html,css,js)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mssql)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel)
 
 ### 📈 GitHub Stats
 
-![Pranto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantosmss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prantosmss&layout=compact&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prantosmss&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantosmss&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prantosmss&theme=radical" />
+</p>
