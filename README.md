@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://prantosmss.github.io">Portfolio</a> ·
+  <a href="https://prantosmss.art">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ssspranto/">LinkedIn</a> ·
   <a href="mailto:pranto.smss.dev@gmail.com">Email</a>
 </p>
