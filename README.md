@@ -28,7 +28,7 @@
   <b>💬 Ask me about</b> · Next.js, React, TypeScript, SQL and database design, or building as a developer in Bangladesh
 </p>
 <p align="center">
-  <sub>⚡ I can map out a complex component tree in my head, but centering a <code>div</code> still makes me question my life choices.</sub>
+  <img src="images/fun-fact.svg" width="560" alt="I can map out a complex component tree in my head, but centering a div still makes me question my life choices." />
 </p>
 
 ---
