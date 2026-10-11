@@ -28,25 +28,32 @@ CSE student at Stamford University Bangladesh.
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**TypeScript / JavaScript** · Full-stack web
 
-![Languages](https://skillicons.dev/icons?i=ts,js,py,java,cpp,c)
+![JS/TS](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,html,css)
 
-**Core (Full-Stack)**
+**Python** · Web, desktop & scripting
 
-![Core](https://skillicons.dev/icons?i=nextjs,react,tailwind)
+![Python](https://skillicons.dev/icons?i=py,flask)  
+`Tkinter` · `pywebview`
 
-**Web Fundamentals**
+**Java** · Desktop applications
 
-![Fundamentals](https://skillicons.dev/icons?i=html,css)
+![Java](https://skillicons.dev/icons?i=java)  
+`JavaFX` · `Swing`
 
-**Backend**
+**C / C++** · Systems & algorithms
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![C/C++](https://skillicons.dev/icons?i=c,cpp)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)  
+`Microsoft SQL Server`
+
+**Networking**
+
+`Cisco Packet Tracer`
 
 **Tools**
 
