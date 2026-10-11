@@ -42,7 +42,7 @@ CSE student at Stamford University Bangladesh.
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mssql)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
 
 **Tools**
 
