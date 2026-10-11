@@ -28,13 +28,17 @@ CSE student at Stamford University Bangladesh.
 
 ### 🛠️ Tech Stack
 
-**Core**
+**Languages**
 
-![Core](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind)
+![Languages](https://skillicons.dev/icons?i=ts,js,py,java,cpp,c)
 
-**Fundamentals**
+**Core (Full-Stack)**
 
-![Fundamentals](https://skillicons.dev/icons?i=html,css,js)
+![Core](https://skillicons.dev/icons?i=nextjs,react,tailwind)
+
+**Web Fundamentals**
+
+![Fundamentals](https://skillicons.dev/icons?i=html,css)
 
 **Backend**
 
