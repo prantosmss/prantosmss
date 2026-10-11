@@ -62,7 +62,7 @@ CSE student at Stamford University Bangladesh.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prantosmss&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prantosmss&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantosmss&layout=compact&theme=radical" />
 </p>
 
