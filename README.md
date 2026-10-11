@@ -17,46 +17,23 @@
 
 ---
 
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
+ 
+<p align="center">
+  <b>🔭 Building</b> · Full-stack apps with Next.js, React Server Components, Tailwind CSS and relational databases<br><br>
+  <b>⚙️ Focus</b> · Core Web Vitals, accessibility, component architecture and type-safe data flow from database to UI<br><br>
+  <b>🌱 Leveling up</b> · Backend and API design with Node.js/Express, plus data structures and algorithms<br><br>
+  <b>🧰 Workflow</b> · Git-based collaboration, containerized environments with Docker, and deploys on Vercel<br><br>
+  <b>🤝 Open to collaborating on</b> · Open-source Next.js projects, developer tooling and product-focused full-stack apps<br><br>
+  <b>💬 Ask me about</b> · Next.js, React, TypeScript, SQL and database design, or building as a developer in Bangladesh
+</p>
+<p align="center">
+  <sub>⚡ I can map out a complex component tree in my head, but centering a <code>div</code> still makes me question my life choices.</sub>
+</p>
 
-<div align="center">
+---
 
-<table width="100%">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <b>🔭 Building</b><br>
-      <sub>Full-stack apps with Next.js, React Server Components, Tailwind CSS and relational databases</sub>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <b>⚙️ Focus</b><br>
-      <sub>Core Web Vitals, accessibility, component architecture and type-safe data flow from database to UI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <b>🌱 Leveling up</b><br>
-      <sub>Backend and API design with Node.js/Express, plus data structures and algorithms</sub>
-    </td>
-    <td align="left" valign="top" width="50%">
-    <b>🧰 Workflow</b><br>
-      <sub>Git-based collaboration, containerized environments with Docker, and deploys on Vercel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <b>🤝 Open to collaborating on</b><br>
-      <sub>Open-source Next.js projects, developer tooling and product-focused full-stack apps</sub>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <b>💬 Ask me about</b><br>
-      <sub>Next.js, React, TypeScript, SQL and database design, or building as a developer in Bangladesh</sub>
-    </td>
-  </tr>
-</table>
-<sub>⚡ I can map out a complex component tree in my head, but centering a <code>div</code> still makes me question my life choices.</sub>
-</div>
-
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 <table width="100%">
@@ -107,7 +84,9 @@
 </table>
 </div>
 
-### 📈 GitHub Stats
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=prantosmss&show_icons=true&theme=radical" />
